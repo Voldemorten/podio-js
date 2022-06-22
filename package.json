@@ -31,7 +31,8 @@
     "coveralls": "2.11.6",
     "istanbul": "0.4.2",
     "jasmine-node": "1.14.5",
-    "sinon": "1.17.3"
+    "sinon": "1.17.3",
+    "prettier": "^2.1.2"
   },
   "dependencies": {
     "URIjs": "1.16.1",
